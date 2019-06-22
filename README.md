@@ -3,4 +3,4 @@ This project is a part of Udemy course "The Complete Web Developer in 2019: Zero
 </br>
 This is my solution for the shopping list problem from the course.
 </br>
-Live Preview: https://rohansamavedam.github.io/index3.html
+This is done in regard to practice client side javascript
